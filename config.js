@@ -14,18 +14,18 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;FqQk3S4B#CM8u8sEte1n3pjqRAcKt7mFKJonfcyAKVpWJSIEhE7s' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://sachintha_cpuj_user:tznsijYMPKY81lQeQPFa2vh9Gi1jPKzZ@dpg-ck09qkh5mpss73df2cf0-a.oregon-postgres.render.com/sachintha_cpuj'
 
  
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94784608102'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = '👨‍💻|𝚂𝚊𝚌𝚑𝚒𝚢𝚊|👨‍💻'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
@@ -49,7 +49,7 @@ global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
 global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
 
-global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
+global.LANG = 'SI' // Language (EN-  TO english  ,  SI- TO sinhala )
 
 global.PREFIX = '.' // Bot Prefix
 
